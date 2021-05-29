@@ -42,11 +42,15 @@
 
 **重要知识点详解：**
 
-2. **线程池**：[Java 线程池学习总结](./docs/java/multi-thread/java线程池学习总结.md)、[拿来即用的线程池最佳实践](./docs/java/multi-thread/拿来即用的线程池最佳实践.md)
-4. [ ThreadLocal 关键字解析](docs/java/multi-thread/万字详解ThreadLocal关键字.md)
-5. [并发容器总结](docs/java/multi-thread/并发容器总结.md)
-6. [JUC 中的 Atomic 原子类总结](docs/java/multi-thread/Atomic原子类总结.md)
-7. [AQS 原理以及 AQS 同步组件总结](docs/java/multi-thread/AQS原理以及AQS同步组件总结.md)
+​	1.**线程池**：[Java 线程池学习总结](./docs/java/multi-thread/java线程池学习总结.md)、[拿来即用的线程池最佳实践](./docs/java/multi-thread/拿来即用的线程池最佳实践.md)
+
+​	2.[ ThreadLocal 关键字解析](docs/java/multi-thread/万字详解ThreadLocal关键字.md)
+
+​	3.[并发容器总结](docs/java/multi-thread/并发容器总结.md)
+
+​	4.[JUC 中的 Atomic 原子类总结](docs/java/multi-thread/Atomic原子类总结.md)
+
+​	5.[AQS 原理以及 AQS 同步组件总结](docs/java/multi-thread/AQS原理以及AQS同步组件总结.md)
 
 ### JVM 
 
@@ -80,8 +84,9 @@
 
 ### Redis
 
-2. [Redis 常见问题总结](docs/database/Redis/redis-all.md)
-3. [面试/工作必备！3种常用的缓存读写策略！](docs/database/Redis/3种常用的缓存读写策略.md)
+   1.[Redis 常见问题总结](docs/database/Redis/redis-all.md)
+
+   2.[面试/工作必备！3种常用的缓存读写策略！](docs/database/Redis/3种常用的缓存读写策略.md)
 
 ## 系统设计
 
