@@ -1,6 +1,6 @@
 <p align="center">
 </p>
-<h1 align="center">博为峰培训 51Testing</h1>
+<h1 align="center">博为峰 51Testing</h1>
 
 <p align="center">
 </p>
