@@ -1,6 +1,6 @@
 <p align="center">
 </p>
-<h1 align="center">传智播客</h1>
+<h1 align="center">博为峰培训 51Testing</h1>
 
 <p align="center">
 </p>
@@ -8,9 +8,8 @@
 
 <font align="center" fontsize="50">— — 若有侵权，请联系删除</font>
 
-[黑马程序员](http://www.itheima.com/special/brandzly/index.html?jingjiahmpz-pz-pc-biaoti/)
-[开始阅读](#IT-HeiMa)
-
+[博为峰培训](http://www.51testing.org/htm/brand3/brand3/PZ.html)
+[开始阅读](#IT-51testing)
 
 
 
