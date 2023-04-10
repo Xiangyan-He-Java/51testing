@@ -125,18 +125,6 @@
 
 ## 项目 
 
-### 探花交友
-
-- [探花交友](docs/project/tanhua/探花交友.md)
-
-
-
-### 黑马头条
-
-- [黑马头条](docs/project/toutiao/黑马头条.md)
-
-
-
 ### 项目技术点
 
 - [项目技术点](docs/project/jishu/技术.md)
