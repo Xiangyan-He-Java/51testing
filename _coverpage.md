@@ -8,7 +8,7 @@
 
 <font align="center" fontsize="50">— — 若有侵权，请联系删除</font>
 
-[博为峰培训](http://www.51testing.org/htm/brand3/brand3/PZ.html)
+[博为峰](http://www.51testing.org/htm/brand3/brand3/PZ.html)
 [开始阅读](#IT-51testing)
 
 
