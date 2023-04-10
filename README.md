@@ -7,11 +7,12 @@
     <tr>
        <td align="center" valign="middle">
         <a href="http://www.itheima.com/special/brandzly/index.html?jingjiahmpz-pz-pc-biaoti/">
-         <img src="./media/sponsor/黑马程序员.jpg" style="margin: 0 auto;width:850px" /></a>
+         <img src="./media/sponsor/博为峰.jpg" style="margin: 0 auto;width:850px" /></a>
       </td>       
     </tr>
   </tbody>
 </table>
+
 
 
 ## Java
