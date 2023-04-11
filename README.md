@@ -55,14 +55,23 @@
 
 ### JVM 
 
-1. **[Java 内存区域](docs/java/jvm/Java内存区域.md)**
-2. **[JVM 垃圾回收](docs/java/jvm/JVM垃圾回收.md)**
-3. [JDK 监控和故障处理工具](docs/java/jvm/JDK监控和故障处理工具总结.md)
-4. [类文件结构](docs/java/jvm/类文件结构.md)
-5. **[类加载过程](docs/java/jvm/类加载过程.md)**
-6. [类加载器](docs/java/jvm/类加载器.md)
-7. **[【加餐】大白话带你认识 JVM](docs/java/jvm/[加餐]大白话带你认识JVM.md)**
-8. [JVM极速版](docs/java/jvm/JVM速阅版.md)
+1. **[JVM速阅版(重要⭐)](docs/java/jvm/JVM速阅版.md)**
+
+2. **[Java 内存区域](docs/java/jvm/Java内存区域.md)**
+
+3. **[JVM 垃圾回收](docs/java/jvm/JVM垃圾回收.md)**
+
+4. [JDK 监控和故障处理工具](docs/java/jvm/JDK监控和故障处理工具总结.md)
+
+5. [类文件结构](docs/java/jvm/类文件结构.md)
+
+6. **[类加载过程](docs/java/jvm/类加载过程.md)**
+
+7. [类加载器](docs/java/jvm/类加载器.md)
+
+8. **[【加餐】大白话带你认识 JVM](docs/java/jvm/[加餐]大白话带你认识JVM.md)**
+
+   
 
 
 
