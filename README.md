@@ -61,7 +61,8 @@
 4. [类文件结构](docs/java/jvm/类文件结构.md)
 5. **[类加载过程](docs/java/jvm/类加载过程.md)**
 6. [类加载器](docs/java/jvm/类加载器.md)
-9. **[【加餐】大白话带你认识 JVM](docs/java/jvm/[加餐]大白话带你认识JVM.md)**
+7. **[【加餐】大白话带你认识 JVM](docs/java/jvm/[加餐]大白话带你认识JVM.md)**
+8. [JVM极速版](docs/java/jvm/JVM速阅版.md)
 
 
 
