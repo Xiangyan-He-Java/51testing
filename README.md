@@ -6,7 +6,7 @@
   <tbody>
     <tr>
        <td align="center" valign="middle">
-        <a href="http://www.itheima.com/special/brandzly/index.html?jingjiahmpz-pz-pc-biaoti/">
+        <a href="http://www.51testing.org/htm/brand3/brand3/PZ.html">
          <img src="./media/sponsor/博为峰.jpg" style="margin: 0 auto;width:850px" /></a>
       </td>       
     </tr>
@@ -14,9 +14,10 @@
 </table>
 
 
+
 ## Java面试突击(必看:+1: )
 
-[Java面试突击](https://www.bilibili.com/video/BV1r5411T7gG/?spm_id_from=888.80997.embed_other.whitelist)
+[Java面试突击](https://www.bilibili.com/video/BV1sz4y1y753/?spm_id_from=333.337.search-card.all.click)
 
  **学习人家优秀的表达能力及知识总结能力**
 
